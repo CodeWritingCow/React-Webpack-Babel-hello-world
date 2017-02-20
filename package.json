@@ -1,0 +1,19 @@
+{
+  "name": "React-Webpack-Babel-hello-world",
+  "version": "1.0.0",
+  "description": "Hello World React sample with Webpack and Babel",
+  "main": "index.js",
+  "author": "Gary Pang",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0"
+  }
+}
